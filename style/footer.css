@@ -1,0 +1,38 @@
+.footer-img{
+  
+   height: 10vh;
+   object-fit: cover;
+   width: 100%;
+   align-items: center;
+
+}
+.icon{
+   height: 10vh;
+  font-size: 1.3rem;
+   top: 1rem;
+  justify-content: space-evenly;
+  display: flex;
+  flex-wrap:  wrap;
+  align-items: center;
+ 
+ 
+}
+.font{
+  font-size: 1.3rem;  
+  gap: 2rem;
+
+}
+.footer-con p{
+    font-weight: 800;
+}
+.footer-con{
+    
+  background-color: blueviolet;
+}
+.font i{
+    transition: all 0.4s linear;
+}
+.font i:hover{
+  color: black;
+   
+}
