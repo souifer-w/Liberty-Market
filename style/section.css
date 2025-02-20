@@ -368,7 +368,7 @@ box-shadow: 0px 0px 40px;
   display: flex;
   flex-wrap: wrap;
   padding-right: 1rem;
-  gap: 1rem;
+  gap: 2rem;
   padding-left: 1rem;
   justify-content: space-between;
 }
@@ -394,7 +394,7 @@ box-shadow: 0px 0px 40px;
   background-color: white;
 }
 .fi-nv{
-  margin-left: 1.2rem;
+ 
   color: rgb(191, 15, 255);
   text-decoration: none;
   font-size:0.80rem;
